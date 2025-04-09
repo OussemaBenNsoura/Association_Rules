@@ -41,3 +41,9 @@ plt.title('Fréquence des achats des articles')
 plt.xlabel('Articles')
 plt.ylabel('Fréquence')
 plt.show()
+
+     # Interpret the results and suggest a clear business plan to the supermarket owners based on your findings
+# Les suggestions du plan d'affaires se concentrent sur des stratégies telles que les promotions groupées,
+# le cross-selling : (skirt,pants)...
+# le marketing ciblé : Stratégie qui consiste à personnaliser les campagnes publicitaires,
+# et l'optimisation de l'agencement des produits pour augmenter les ventes et fidéliser les clients
